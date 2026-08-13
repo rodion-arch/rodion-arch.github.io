@@ -1,0 +1,287 @@
+{
+  "projects": [
+    {
+      "order": 1,
+      "slug": "beloostrov-snt",
+      "title": "Белоостров — СНТ",
+      "subtitle": "Интерьер загородного дома",
+      "folder": "assets/images/projects/beloostrov-snt",
+      "cover": "01.webp",
+      "images": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "plan-01.webp"
+      ]
+    },
+    {
+      "order": 2,
+      "slug": "vaskelovo",
+      "title": "Васкелово",
+      "subtitle": "Загородный дом",
+      "folder": "assets/images/projects/vaskelovo",
+      "cover": "01.webp",
+      "images": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp"
+      ]
+    },
+    {
+      "order": 3,
+      "slug": "akhmatovo",
+      "title": "Ахматово",
+      "subtitle": "Загородный дом",
+      "folder": "assets/images/projects/akhmatovo",
+      "cover": "01.webp",
+      "images": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "10.webp",
+        "11.webp",
+        "12.webp",
+        "13.webp",
+        "plan-01.webp",
+        "plan-02.webp"
+      ]
+    },
+    {
+      "order": 4,
+      "slug": "provence",
+      "title": "Прованс",
+      "subtitle": "Интерьер",
+      "folder": "assets/images/projects/provence",
+      "cover": "01.webp",
+      "images": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "plan-01.webp",
+        "plan-02.webp",
+        "plan-03.webp"
+      ]
+    },
+    {
+      "order": 5,
+      "slug": "reshetnikovo",
+      "title": "Решетниково",
+      "subtitle": "Интерьер загородного дома",
+      "folder": "assets/images/projects/reshetnikovo",
+      "cover": "01.webp",
+      "images": [
+        "01.webp",
+        "02.webp",
+        "03.webp"
+      ]
+    },
+    {
+      "order": 6,
+      "slug": "simagino",
+      "title": "Симагино",
+      "subtitle": "Загородный дом",
+      "folder": "assets/images/projects/simagino",
+      "cover": "01.webp",
+      "images": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "10.webp",
+        "11.webp",
+        "12.webp",
+        "13.webp",
+        "14.webp",
+        "15.webp",
+        "16.webp",
+        "plan-01.webp",
+        "plan-02.webp"
+      ]
+    },
+    {
+      "order": 7,
+      "slug": "lisiy-nos",
+      "title": "Лисий Нос",
+      "subtitle": "Интерьер загородного дома",
+      "folder": "assets/images/projects/lisiy-nos",
+      "cover": "01.webp",
+      "images": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "10.webp",
+        "11.webp",
+        "12.webp",
+        "plan-01.webp",
+        "plan-02.webp",
+        "plan-03.webp",
+        "plan-04.webp"
+      ]
+    },
+    {
+      "order": 8,
+      "slug": "beloostrov-osinka",
+      "title": "Белоостров — Осинка",
+      "subtitle": "Интерьер загородного дома",
+      "folder": "assets/images/projects/beloostrov-osinka",
+      "cover": "01.webp",
+      "images": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "plan-01.webp",
+        "plan-02.webp"
+      ]
+    },
+    {
+      "order": 9,
+      "slug": "sestroretsk",
+      "title": "Сестрорецк",
+      "subtitle": "Интерьер",
+      "folder": "assets/images/projects/sestroretsk",
+      "cover": "01.webp",
+      "images": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "10.webp",
+        "11.webp",
+        "12.webp",
+        "13.webp",
+        "14.webp",
+        "plan-01.webp"
+      ]
+    },
+    {
+      "order": 10,
+      "slug": "stomatology-toreza-95",
+      "title": "Стоматология — пр. Тореза, 95",
+      "subtitle": "Коммерческий интерьер",
+      "folder": "assets/images/projects/stomatology-toreza-95",
+      "cover": "01.webp",
+      "images": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "plan-01.webp"
+      ]
+    },
+    {
+      "order": 11,
+      "slug": "kamennoostrovskiy-prospekt",
+      "title": "Каменноостровский проспект",
+      "subtitle": "Интерьер",
+      "folder": "assets/images/projects/kamennoostrovskiy-prospekt",
+      "cover": "01.webp",
+      "images": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp"
+      ]
+    },
+    {
+      "order": 12,
+      "slug": "krestovskiy-ostrov",
+      "title": "Крестовский остров",
+      "subtitle": "Интерьер квартиры",
+      "folder": "assets/images/projects/krestovskiy-ostrov",
+      "cover": "01.webp",
+      "images": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "10.webp"
+      ]
+    },
+    {
+      "order": 13,
+      "slug": "razliv-lake-house",
+      "title": "Дом на озере Разлив",
+      "subtitle": "Архитектура загородного дома",
+      "folder": "assets/images/projects/razliv-lake-house",
+      "cover": "01.webp",
+      "images": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "facade-01.webp",
+        "facade-02.webp",
+        "facade-03.webp",
+        "facade-04.webp"
+      ]
+    },
+    {
+      "order": 14,
+      "slug": "leninskoe",
+      "title": "Ленинское",
+      "subtitle": "Загородный дом",
+      "folder": "assets/images/projects/leninskoe",
+      "cover": "01.webp",
+      "images": [
+        "01.webp",
+        "02.webp",
+        "03.webp",
+        "04.webp",
+        "05.webp",
+        "06.webp",
+        "07.webp",
+        "08.webp",
+        "09.webp",
+        "10.webp"
+      ]
+    }
+  ]
+}
